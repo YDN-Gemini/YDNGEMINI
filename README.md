@@ -47,7 +47,7 @@ The **Prophet Bot** is our first practical application of Weaver's non-binary re
 ---
 
 ### 🌐 Connect with YDN
-* **Website:** [YDN](https://ydnhft.com) (Manifesting via Replit Cloud)
+* **Website:** [YDN](https://ydnhft.com)
 * **Focus:** Scaling the Fracture Principle to distributed edge-mesh networks.
 * **Status:** Bootstrapped. Determined. Non-binary.
 
